@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-06T03:38:43.863Z</updated>
+  <updated>2018-03-06T09:09:48.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,442 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/03/06/hello-world/"/>
-    <id>http://yoursite.com/2018/03/06/hello-world/</id>
-    <published>2018-03-06T03:38:43.863Z</published>
-    <updated>2018-03-06T03:38:43.863Z</updated>
+    <title>newblog</title>
+    <link href="http://yoursite.com/2018/03/06/newblog/"/>
+    <id>http://yoursite.com/2018/03/06/newblog/</id>
+    <published>2018-03-06T09:01:58.000Z</published>
+    <updated>2018-03-06T09:09:48.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>搭建个新博客，写下第一篇文章，原有博客弃用。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;搭建个新博客，写下第一篇文章，原有博客弃用。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>四年</title>
+    <link href="http://yoursite.com/2016/11/23/%E5%9B%9B%E5%B9%B4/"/>
+    <id>http://yoursite.com/2016/11/23/四年/</id>
+    <published>2016-11-23T07:47:17.000Z</published>
+    <updated>2016-11-23T08:51:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="不去回首，怎知道，已经这么久了"><a href="#不去回首，怎知道，已经这么久了" class="headerlink" title="不去回首，怎知道，已经这么久了"></a>不去回首，怎知道，已经这么久了</h3><hr><p>昨天机缘巧合下帮同事推荐电影的时候打开了已经3年多没有登录的豆瓣。不由得感慨。</p><p>曾经很认真的纪录自己的跑步，每个月一次，纪录了自己从170斤瘦到了130斤的全过程。还有些感悟虽然不多。从08年玩豆瓣注销了一个账号到这个账号，再到今天已经过了八年。</p><p>四年足以改变很多事情。不再莽撞，娶了老婆，换了城市，不再是那个刚读研对未来充满憧憬的少年了。</p><blockquote><p>种一棵树最好的时机是10年前，其次是现在。</p></blockquote><p> <img src="" alt=""><img src="C:\Users\yinhong.DALIAN\Desktop\豆瓣1.png" alt="豆瓣1"></p><p><img src="C:\Users\yinhong.DALIAN\Desktop\豆瓣2.png" alt="![img](file:///C:/Users/yinhong.DALIAN/Desktop/%E8%B1%86%E7%93%A32.png?lastModify=1479889947)豆瓣2"></p><p> <img src="C:\Users\yinhong.DALIAN\Desktop\豆瓣3.png" alt="豆瓣3"></p><p> <img src="C:\Users\yinhong.DALIAN\Desktop\runtastic1.png" alt="runtastic1"></p><p>  <img src="C:\Users\yinhong.DALIAN\Desktop\runtastic3.png" alt="runtastic3"><img src="C:\Users\yinhong.DALIAN\Desktop\runtastic2.png" alt="runtastic2"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;不去回首，怎知道，已经这么久了&quot;&gt;&lt;a href=&quot;#不去回首，怎知道，已经这么久了&quot; class=&quot;headerlink&quot; title=&quot;不去回首，怎知道，已经这么久了&quot;&gt;&lt;/a&gt;不去回首，怎知道，已经这么久了&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;昨天机缘巧合下帮同事推荐电
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>双11</title>
+    <link href="http://yoursite.com/2016/11/11/%E5%8F%8C11/"/>
+    <id>http://yoursite.com/2016/11/11/双11/</id>
+    <published>2016-11-11T02:40:37.000Z</published>
+    <updated>2016-11-11T03:09:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一次参加这个“破玩意”大概除了买书以后再也不会参加这个东西了，闹心的不得了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;第一次参加这个“破玩意”大概除了买书以后再也不会参加这个东西了，闹心的不得了。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>周计划10.31-11.06</title>
+    <link href="http://yoursite.com/2016/10/31/%E6%95%B4%E7%90%86/"/>
+    <id>http://yoursite.com/2016/10/31/整理/</id>
+    <published>2016-10-31T06:01:07.000Z</published>
+    <updated>2016-10-31T06:27:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>上周总体表现还不错。一个很好的开始。总结的话就不在这儿写了。</p><h5 id="本周最重要的任务是整理："><a href="#本周最重要的任务是整理：" class="headerlink" title="本周最重要的任务是整理："></a>本周最重要的任务是整理：</h5><ol><li>整理工作的桌子，抽屉(周一)</li><li>把自己所有没看过的书整理出来（周二）</li><li>把电脑好好整理下（周三）</li><li>把网路书签整理出来（周四）</li><li>把想玩没玩的游戏整理出来（周五）</li><li>整理手机里的照片，通信录，短信，app（周六，日）</li></ol><h5 id="跑步："><a href="#跑步：" class="headerlink" title="跑步："></a>跑步：</h5><ol><li>还是每天5 km, 跑6天</li><li>最长距离本周为8 km</li><li>中午吃完饭，还是走走</li></ol><h5 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h5><ol><li>写《Willpower》总结</li><li>开始读《思考，快与慢》第一周</li></ol><h5 id="体重"><a href="#体重" class="headerlink" title="体重"></a>体重</h5><ol><li>由于一顿火锅，上周结束在154.5，瘦了1.5斤差强人意</li><li>本周还是1.5-2斤，别着急，慢慢来。重要的是别自责坚持下去就好了</li></ol><h5 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h5><ol><li>定好先学哪一个，开始就好了</li></ol><h5 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h5><ol><li>慢慢习惯早睡</li><li>争取养成早起习惯</li></ol><h5 id=""><a href="#" class="headerlink" title=" "></a> </h5>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;上周总体表现还不错。一个很好的开始。总结的话就不在这儿写了。&lt;/p&gt;
+&lt;h5 id=&quot;本周最重要的任务是整理：&quot;&gt;&lt;a href=&quot;#本周最重要的任务是整理：&quot; class=&quot;headerlink&quot; title=&quot;本周最重要的任务是整理：&quot;&gt;&lt;/a&gt;本周最重要的任务是整理：
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网</title>
+    <link href="http://yoursite.com/2016/10/26/%E7%BD%91/"/>
+    <id>http://yoursite.com/2016/10/26/网/</id>
+    <published>2016-10-26T07:11:20.000Z</published>
+    <updated>2016-10-26T08:36:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>随便写点什么吧！</p><p>下了个软件Duet特别好玩，用iPad的小屏幕当显示器。还挺有意思。</p><p>我自己都觉得挺逗。科技界还真是不少让我惊艳的产品，但现在真是没有闲钱也没那精力去折腾。刚开的小米发布会就挺有意思的。</p><ul><li>坚持是一件太难的事情了，真的。失败了这么多次终于明白。</li><li>还好，所有没打倒我的都将是我更强大。</li><li>《万万没想到：用理工科思维改变世界》算是读完了。下一本想看《思考，快与慢》或者《意志力》</li><li>Steak最后一个任务还是有些急躁了，先坚持30天再说吧。</li><li>那就写流水账好了。</li><li>做了烤冷面还挺好吃</li><li>中午溜达一个小时，自己一个人静下来的感觉真好</li><li>跑步坚持有几天了，效果还算不错，不过还得慢慢来，大概还有两个月</li><li>这两天番茄工作法用的也不错</li><li>总之一定要好好管理自己的意志</li></ul><table><thead><tr><th style="text-align:center">日期</th><th style="text-align:center">书籍</th></tr></thead><tbody><tr><td style="text-align:center">10.24-10.30</td><td style="text-align:center">《意志力》</td></tr><tr><td style="text-align:center">10.31-11.6</td><td style="text-align:center">《思考，快与慢》</td></tr><tr><td style="text-align:center">11.7-11.13</td><td style="text-align:center">《思考，快与慢》</td></tr><tr><td style="text-align:center">11.14-11.20</td><td style="text-align:center">《Head First Python》</td></tr><tr><td style="text-align:center">11.21-11.27</td><td style="text-align:center">《Flask web开发实战》</td></tr><tr><td style="text-align:center">11.28-12.4</td><td style="text-align:center">《Flask web开发实战》</td></tr><tr><td style="text-align:center">12.5-12.11</td><td style="text-align:center">《Python web 实战》</td></tr><tr><td style="text-align:center">12.12-12.18</td><td style="text-align:center">《Python web 实战》</td></tr><tr><td style="text-align:center">12.19-12.25</td><td style="text-align:center">《Python web 实战》</td></tr><tr><td style="text-align:center">12.26-12.31</td><td style="text-align:center">《Python web 实战》</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;随便写点什么吧！&lt;/p&gt;
+&lt;p&gt;下了个软件Duet特别好玩，用iPad的小屏幕当显示器。还挺有意思。&lt;/p&gt;
+&lt;p&gt;我自己都觉得挺逗。科技界还真是不少让我惊艳的产品，但现在真是没有闲钱也没那精力去折腾。刚开的小米发布会就挺有意思的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;坚持是一件太难
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>慢慢来</title>
+    <link href="http://yoursite.com/2016/10/25/%E6%85%A2%E6%85%A2%E6%9D%A5/"/>
+    <id>http://yoursite.com/2016/10/25/慢慢来/</id>
+    <published>2016-10-25T06:28:11.000Z</published>
+    <updated>2016-10-25T06:28:11.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>GTD</title>
+    <link href="http://yoursite.com/2016/10/24/GTD/"/>
+    <id>http://yoursite.com/2016/10/24/GTD/</id>
+    <published>2016-10-24T01:55:42.000Z</published>
+    <updated>2016-10-24T03:19:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="GTD"><a href="#GTD" class="headerlink" title="GTD"></a>GTD</h4><p>知道<strong>GTD</strong>很长很长时间了，一直也用不好，总是沉迷于短节奏的东西。不断的刷来刷去真正得到的东西却很少。今天上班有点不知道干什么，主要是想做的东西一多就未免烦躁，什么也不想干，只想刷微博，刷微信，刷推特，陷入焦躁与循环。</p><p>昨天看了眼自己的书架，发现太多的书没有读了，最近也不打算买新书了（然而周六手一抖又在Kindle买了几本），真是罪过。</p><h4 id="从现在开始"><a href="#从现在开始" class="headerlink" title="从现在开始"></a>从现在开始</h4><p>也是一切的基础</p><h4 id="番茄工作法"><a href="#番茄工作法" class="headerlink" title="番茄工作法"></a>番茄工作法</h4><p>知道这个已经有日子了，考研时候还坚持了一个月，总搁浅。我觉得这个工作方式非常适合我。但我知道自己一旦因为什么被打断就很难重新开始坚持，这个也是我这一阶段最应该改掉的毛病。</p><h4 id="重新跑起来"><a href="#重新跑起来" class="headerlink" title="重新跑起来"></a>重新跑起来</h4><p>现在已经是156斤了（这还是瘦了6斤的前提下），总是不断的胖起来瘦下去，也是因为自己一旦坚持的事情被打断，就选择放纵的主要原因。这次按照每周瘦2斤左右的计划，争取在2017年以前瘦到140斤，然后再进行其它计划，只干一件事，然后，失败了一定要继续别气馁。</p><p>跑步计划如下：每周六天，每天5 km, 每周一次长距离。每周休息一天</p><table><thead><tr><th style="text-align:center">日期</th><th style="text-align:center">距离</th></tr></thead><tbody><tr><td style="text-align:center">10.24-10.30</td><td style="text-align:center">5 km</td></tr><tr><td style="text-align:center">10.31-11.6</td><td style="text-align:center">6 km</td></tr><tr><td style="text-align:center">11.7-11.13</td><td style="text-align:center">8 km</td></tr><tr><td style="text-align:center">11.14-11.20</td><td style="text-align:center">10 km</td></tr><tr><td style="text-align:center">11.21-11.27</td><td style="text-align:center">10 km</td></tr><tr><td style="text-align:center">11.28-12.4</td><td style="text-align:center">12 km</td></tr><tr><td style="text-align:center">12.5-12.11</td><td style="text-align:center">10 km</td></tr><tr><td style="text-align:center">12.12-12.18</td><td style="text-align:center">15 km</td></tr><tr><td style="text-align:center">12.19-12.25</td><td style="text-align:center">10 km</td></tr><tr><td style="text-align:center">12.25-12.31</td><td style="text-align:center">20 km</td></tr></tbody></table><p>其它：</p><ul><li>戒掉碳酸饮料</li><li>每天中午吃完饭出去溜达一圈</li><li>晚上少吃米饭，再好吃也不能多吃</li><li>没有特殊情况不喝酒</li><li>咖啡只喝<u>黑咖啡</u></li></ul><h4 id="读书和游戏"><a href="#读书和游戏" class="headerlink" title="读书和游戏"></a>读书和游戏</h4><p>自己同样的毛病也体现在读书和游戏上：家里堆了太多没看完的书了，kindle也放了不少自己想看但只是看了个开头的书。而且翻看以前的书，好多都忘得不知所踪了，到这个年龄了，读书也不该单纯是为了好看和消遣了，大概列如下计划吧（根据需要随时更改）：</p><ul><li>绝对不同时看两本以上的书（同时两本的话一本为学习书），一本读完再读另一本</li><li>读完一本书每周写一个读书总结。一般书籍为一周，原版书籍为2-3周，技术书籍一个月一本</li><li>游戏同样，最多同时2个（掌机和主机各一个）一堆想玩的却不知道玩哪个。目前计划为打通或打不下去才玩第二个（当然工作相关的除外）</li><li>这一阶段读书为《万万没想到：用理工科思维理解世界》技术为《Flask Web 开发》</li><li>游戏为《Mini Metro》《神海》（待定）</li></ul><h4 id="失败怎么办"><a href="#失败怎么办" class="headerlink" title="失败怎么办"></a>失败怎么办</h4><ul><li>经历了太多次失败了，必须认识一下这个问题的严重性了<ol><li>计划永远比不上变化，每天都会遇到这样那样的意外</li><li>失败是常态，成功才是偶然</li><li>所以坚持下去靠的不是意志力，靠的是科学</li><li>一定要控制好自己的意志力，别一口气开一堆坑</li><li>不要自责，我只是开始慢，慢慢来我一定会做好的</li><li>某一天因为什么被打断一定别停下，第二天再来</li></ol></li><li>多总结，多写东西，看到自己的积累，慢慢的也就不舍得放弃了</li><li>给自己奖励，别骗自己，坚持到一定阶段一定给自己个奖励</li></ul><h4 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h4><p>怎么也该为自己的未来考虑了。昨天想了自己大概的三块，英语，日语，数据。这三个方向，数据的话需要学习编程和数学的知识。日语的话总该快点开始，英语还可以，但是需要系统的练一下。不过这三个暂时不着急开始，目前首要的任务是提高自己的意志力，把上面的那些先做好。</p><ul><li>英语暂时计划先往后放，先以看小说总结单词为主（之后的计划为过一遍老友记）</li><li>日语就学《标准日本语》，也不乱找了，每天一课。什么时候正式开始待定</li><li>编程的话先以Flask为主，先把网站搭起来。这个主要在公司弄</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;GTD&quot;&gt;&lt;a href=&quot;#GTD&quot; class=&quot;headerlink&quot; title=&quot;GTD&quot;&gt;&lt;/a&gt;GTD&lt;/h4&gt;&lt;p&gt;知道&lt;strong&gt;GTD&lt;/strong&gt;很长很长时间了，一直也用不好，总是沉迷于短节奏的东西。不断的刷来刷去真正得到的东西却很少
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>神烦</title>
+    <link href="http://yoursite.com/2016/10/20/%E7%A5%9E%E7%83%A6/"/>
+    <id>http://yoursite.com/2016/10/20/神烦/</id>
+    <published>2016-10-20T07:56:05.000Z</published>
+    <updated>2016-10-20T08:13:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>真的好烦。</p><p>讨厌，讨厌，讨厌。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">sb</span><span class="params">()</span>:</span></span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">__init__</span><span class="params">(self,name)</span>:</span></span><br><span class="line">        name = self.name</span><br><span class="line">    <span class="function"><span class="keyword">def</span> <span class="title">look_what_i_am_doing</span><span class="params">()</span>:</span></span><br><span class="line">        <span class="keyword">print</span> sb.name</span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">caonima</span><span class="params">()</span>:</span></span><br><span class="line">    <span class="keyword">if</span> sb.look_what_i_am_doing():</span><br><span class="line">        <span class="keyword">print</span> <span class="string">"caonima"</span></span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        do_what_am_doing()</span><br></pre></td></tr></table></figure><p>想写很多东西来得，还是算了吧，哎</p><p>听着雨声工作还是别有一番感觉的。</p><p>觉得自己差太多了，重新开始读书了。一点一点来，千万别着急</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;真的好烦。&lt;/p&gt;
+&lt;p&gt;讨厌，讨厌，讨厌。&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>漫长的一周</title>
+    <link href="http://yoursite.com/2016/10/14/%E6%BC%AB%E9%95%BF%E7%9A%84%E4%B8%80%E5%91%A8/"/>
+    <id>http://yoursite.com/2016/10/14/漫长的一周/</id>
+    <published>2016-10-14T08:37:17.000Z</published>
+    <updated>2016-10-14T08:52:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>听着雨声趁着还没下班写点什么吧。</p><p>这周竟然上了七天班，有些头疼，总归是过去了。结婚后也算回来上班一周了，还是有些累的。</p><p>期待已经在<strong>机核</strong>发一篇文章的想法终于算是实现了，反响还不错，得到了超过150个赞，还有好多朋友留言，也算有不小的成就感，错别字的问题慢慢改正，下周争取把下篇发了。</p><p>自己胖了太多了，不只一个人说我最近胖了，我也感觉这样好烦，得开始慢慢减肥了，不想变成自己不喜欢的胖子。</p><p>今年的大事算是办完了，还剩下些时间，希望自己变得更好一点，去迎接未来。给自己的10年期限也他妈的过了一半了，最不能感叹的就是时间的流逝了。</p><p>嗯，去他妈的，时间过得真快。</p><h4 id="最近想做的事儿："><a href="#最近想做的事儿：" class="headerlink" title="最近想做的事儿："></a>最近想做的事儿：</h4><ul><li>继续在机核写东西，练习下自己的文笔和系统的组织能力，顺便为了未来</li><li>重新跑起来，嗯，重新跑起来。别他妈再胖下去了</li><li>接上条，减肥，也没啥既定的目标，先瘦下去再说</li><li>读书，减少些上社交网络上的时间。记忆力差了很多，多靠总结吧</li></ul><h4 id="先做这些"><a href="#先做这些" class="headerlink" title="先做这些"></a>先做这些</h4><ol><li>把给机核投稿的下篇写了，最起码有始有终</li><li>把自己想看的书总结出来，一本一本的看吧。先保证一周一本，写个总结</li><li>重新跑起来，跑步的时间暂时不限，但每天争取都跑，再慢慢提到早上</li><li>最重要的，已经想了10年的东西。已经说了无数次的东西，也是自己的梦想<strong>日语</strong>该学了不如从今天开始</li><li>游戏的话最近也不买啥了，先把已经买的这些玩了，等年底的如龙6</li><li>学着控制自己的脾气，生气了也一笑而过，别多想</li><li>用flask搭建一个自己一直想搭建的网站，这样。over。</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;听着雨声趁着还没下班写点什么吧。&lt;/p&gt;
+&lt;p&gt;这周竟然上了七天班，有些头疼，总归是过去了。结婚后也算回来上班一周了，还是有些累的。&lt;/p&gt;
+&lt;p&gt;期待已经在&lt;strong&gt;机核&lt;/strong&gt;发一篇文章的想法终于算是实现了，反响还不错，得到了超过150个赞，还有好多朋友
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>想玩的游戏</title>
+    <link href="http://yoursite.com/2016/10/12/%E6%83%B3%E7%8E%A9%E7%9A%84%E6%B8%B8%E6%88%8F/"/>
+    <id>http://yoursite.com/2016/10/12/想玩的游戏/</id>
+    <published>2016-10-12T06:54:47.000Z</published>
+    <updated>2016-10-12T07:16:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="接下来想玩的游戏"><a href="#接下来想玩的游戏" class="headerlink" title="接下来想玩的游戏"></a>接下来想玩的游戏</h3><ul><li style="list-style: none"><input type="checkbox"> 文明6(Steam)  未购入</li><li style="list-style: none"><input type="checkbox"> Life is strange(PS4) 未购入</li><li style="list-style: none"><input type="checkbox"> 塞尔达传说系列（3DS WIIU NX）未购入</li><li style="list-style: none"><input type="checkbox"> SHENZHEN I/O(Steam) 已买</li><li style="list-style: none"><input type="checkbox"> 欧陆风云（Steam）未购入</li><li style="list-style: none"><input type="checkbox"> 巫师3（PS4）已买</li><li style="list-style: none"><input type="checkbox"> 神秘海域系列（PS4）已买</li><li style="list-style: none"><input type="checkbox"> 如龙6（PS4）未购入</li><li style="list-style: none"><input type="checkbox"> P4G（PSV）未购入</li><li style="list-style: none"><input type="checkbox"> XCOM系列（Steam）已买</li><li style="list-style: none"><input type="checkbox"> 监狱建造师（Steam）已买</li><li style="list-style: none"><input type="checkbox"> Invisible Inc(iPad) 已买</li><li style="list-style: none"><input type="checkbox"> This War of Mine(iPad &amp; Steam) 未购入</li><li style="list-style: none"><input type="checkbox"> Fault(Steam) 已买</li><li style="list-style: none"><input type="checkbox"> Darkest Dungeon (Steam) 已买</li><li style="list-style: none"><input type="checkbox"> HACKNET(Steam) 已买</li></ul><h3 id="待添加。。。"><a href="#待添加。。。" class="headerlink" title="待添加。。。"></a>待添加。。。</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;接下来想玩的游戏&quot;&gt;&lt;a href=&quot;#接下来想玩的游戏&quot; class=&quot;headerlink&quot; title=&quot;接下来想玩的游戏&quot;&gt;&lt;/a&gt;接下来想玩的游戏&lt;/h3&gt;&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;ch
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>回老家结婚</title>
+    <link href="http://yoursite.com/2016/09/29/%E5%9B%9E%E8%80%81%E5%AE%B6%E7%BB%93%E5%A9%9A/"/>
+    <id>http://yoursite.com/2016/09/29/回老家结婚/</id>
+    <published>2016-09-29T06:55:07.000Z</published>
+    <updated>2016-09-29T06:56:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近心总是静不下来。</p><p>终于要回老家结婚了。</p><p>不是Flag</p><p>回来好好整理下自己</p><p>OVER.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近心总是静不下来。&lt;/p&gt;
+&lt;p&gt;终于要回老家结婚了。&lt;/p&gt;
+&lt;p&gt;不是Flag&lt;/p&gt;
+&lt;p&gt;回来好好整理下自己&lt;/p&gt;
+&lt;p&gt;OVER.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>婚礼致辞</title>
+    <link href="http://yoursite.com/2016/09/27/%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E/"/>
+    <id>http://yoursite.com/2016/09/27/婚礼致辞/</id>
+    <published>2016-09-27T01:49:27.000Z</published>
+    <updated>2016-09-27T02:02:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>各位女士们先生们，亲戚们，朋友们，大家好。</p><p>感谢大家在举国为祖国欢庆的时候来抽出时间来到邹晶和我的婚礼，来祝福我们的小家。</p><p>更感谢我的爸爸妈妈，和我的爸爸妈妈。感谢我最美丽的新娘，此刻最美丽的你，和此刻最幸福的我。</p><p>我们一起走过了3年，爱从来没有因为时间变淡，我们从沈阳到北京，再从北京到大连。</p><p>剩下的婚礼看感觉说：</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;各位女士们先生们，亲戚们，朋友们，大家好。&lt;/p&gt;
+&lt;p&gt;感谢大家在举国为祖国欢庆的时候来抽出时间来到邹晶和我的婚礼，来祝福我们的小家。&lt;/p&gt;
+&lt;p&gt;更感谢我的爸爸妈妈，和我的爸爸妈妈。感谢我最美丽的新娘，此刻最美丽的你，和此刻最幸福的我。&lt;/p&gt;
+&lt;p&gt;我们一起走过了3
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>旅途</title>
+    <link href="http://yoursite.com/2016/09/24/%E6%97%85%E9%80%94/"/>
+    <id>http://yoursite.com/2016/09/24/旅途/</id>
+    <published>2016-09-24T04:36:34.000Z</published>
+    <updated>2016-09-24T05:08:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>花了1毛钱，买了一本特别垃圾的书。甚至可能都不会读完，开头有个引用却让我想了很多：</p><blockquote><p>很长一段时间，我的生活看似马上就要开始了，真正的生活，但总有一些障碍阻挡着，有些事得先解决，有些工作有待完成，时间貌似够用，还有一笔债需要付清，然后生活就会开始，最后我终于明白，这些障碍，正是我们的生活。</p></blockquote><p><strong>读过再多书，明白再多道理，要懂得生活是也不太容易，生活或者说活着可能就是这两个字本身，又或者是命中注定，一切本无意义，甚至包括寻找所谓意义本身的过程也毫无意义。生活是什么？没人能给我答案，我也不想知道。</strong></p><p>这些天好像又重新找回了曾经看书的热情，3天时间一口气读完了<strong>《死亡通知单》</strong>书谈不上多好，吸引力却足够，即使读过很多推理小说的我读起来也能找到不少思考带来的快感。书中对正义讨论了不少，反派塑造挺精彩的，尤其是第二部案件和案件套在一起，作者填坑的功力确实不凡。</p><p>时间却在不经意的走着，这样感叹太多次了。也经历了太多次的离别，太多的再见成了再也不见。猛地得知自己小学同学去世的消息心中也震颤了一下，生命中的太多人成了永远的过客，甚至记忆的深处也找不到一些他们的痕迹，突然的消息，回想好久才仿佛有些记忆，哦，有这么个人，就这么走了，好可惜。也许某一天也会有人这么感叹我吧？</p><h4 id="回到旅途"><a href="#回到旅途" class="headerlink" title="回到旅途"></a>回到旅途</h4><p>总是想着自己的人生是有着无限的可能性的，小时候想当老师，想当消防员，想有一屋子书，想有一屋子游戏。想了很多不着边际的事情。曾经的理想梦想，有些实现了，却已没有了儿时的悸动。有些永远实现不了了，比如，我的个子真的不可能<strong>扣篮</strong>。</p><p>曾经不太懂好多人说的生命就像一场旅行，人生也就是一场漫长的旅行。慢慢的年龄阅历上的增长好像懂了一点点。曾经的好友变得不再认识，曾经以为会喜欢一辈子的人做起了微商，早就活在了微信的黑名单中。曾经以为最大的乐趣是去日本走一趟，跑遍世界的马拉松，不再被新闻联播洗脑等等等等。但现在更多的是早上醒来能看到你的笑，每天再忙也能一起吃个早餐，晚饭后有一搭没一搭的走在小区了里，讨论讨论洪哥今天又干什么丢人事儿了，也就是我最大的幸福。</p><p>旅途的最大意义可能就是那些陪你一起看风景的人吧？朋友，爱人，或是心中的另一个自己。</p><p>不知道为啥突然想写这些乱七八糟的东西。丢失了昔日华丽的辞藻，凝练成了不知所云的句子，写给自己，写给未来的你。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;花了1毛钱，买了一本特别垃圾的书。甚至可能都不会读完，开头有个引用却让我想了很多：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;很长一段时间，我的生活看似马上就要开始了，真正的生活，但总有一些障碍阻挡着，有些事得先解决，有些工作有待完成，时间貌似够用，还有一笔债需要付清，然后生
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>疼痛</title>
+    <link href="http://yoursite.com/2016/09/20/%E7%96%BC%E7%97%9B/"/>
+    <id>http://yoursite.com/2016/09/20/疼痛/</id>
+    <published>2016-09-20T07:59:15.000Z</published>
+    <updated>2016-09-20T08:26:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="所谓成长"><a href="#所谓成长" class="headerlink" title="所谓成长"></a>所谓成长</h3><hr><p>伴着咬着血的痛，需要一声呐喊，需要一些时间，需要咬着牙想明白一些事情。</p><p>时间。</p><p>还有一些时间。</p><p>毕业已经一年半了。</p><p>走向成人，走向深渊。</p><p>今天看了些真正编程的东西。</p><p>自己差的好远，决定一些事情了该。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;所谓成长&quot;&gt;&lt;a href=&quot;#所谓成长&quot; class=&quot;headerlink&quot; title=&quot;所谓成长&quot;&gt;&lt;/a&gt;所谓成长&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;伴着咬着血的痛，需要一声呐喊，需要一些时间，需要咬着牙想明白一些事情。&lt;/p&gt;
+&lt;p&gt;时间。&lt;/p&gt;
+&lt;p&gt;还有一
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>整理下自己</title>
+    <link href="http://yoursite.com/2016/09/19/%E6%95%B4%E7%90%86%E4%B8%8B%E8%87%AA%E5%B7%B1/"/>
+    <id>http://yoursite.com/2016/09/19/整理下自己/</id>
+    <published>2016-09-19T04:55:38.000Z</published>
+    <updated>2016-09-19T05:06:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>就在下周就要<strong>结婚</strong>了，其实心中反感的不行，讨厌形式，讨厌一大堆繁文缛节，更讨厌一大波永远不会再见面的所谓亲戚朋友对你品头论足。</p><p>但是谁让你那么爱她，逃也不可能逃得过去。总之大概还有不到两周，就要走进这个形式上的婚姻殿堂，怕也好，无奈也好都得硬着头皮走进去。</p><hr><p>但我想说的更多的是最近真是颓废的不行，没有什么目标。生活上学习上都是一塌糊涂，还好自己知道自己想干什么，但总想着结婚以后再做吧，一天一天的过去，还再徘徊，好不容易瘦下去的体重又在一个月之内胖了回来，控制不住自己的嘴。哎，只好叹息。真的是太乱了，只有改变自己才能走出这个圈吧。本来想给这篇文章加上几个图片，好看一点，还是算了。</p><h4 id="距离结婚的日子越来越近"><a href="#距离结婚的日子越来越近" class="headerlink" title="距离结婚的日子越来越近"></a>距离结婚的日子越来越近</h4><ul><li>首先要解决的还是眼前工作上的困难，看来今天搞不好是要加班了</li><li>接下来是体重，剩下10天无论如何也得控制自己了</li><li>然后是结婚上的一切事宜，怎么的都该面对</li><li>一切计划都等到结婚以后开始实施吧。</li></ul><h4 id="想做的事真的很多"><a href="#想做的事真的很多" class="headerlink" title="想做的事真的很多"></a>想做的事真的很多</h4><p>想好好玩游戏，想编程。最重要的是自己偷偷把日语3级报了，结完婚以后只有两个月，看来是必须要付出全部的努力了。之后的再想吧。</p><p><strong>总得努努力，自己究竟为了自己的梦想付出了多少呢？</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;就在下周就要&lt;strong&gt;结婚&lt;/strong&gt;了，其实心中反感的不行，讨厌形式，讨厌一大堆繁文缛节，更讨厌一大波永远不会再见面的所谓亲戚朋友对你品头论足。&lt;/p&gt;
+&lt;p&gt;但是谁让你那么爱她，逃也不可能逃得过去。总之大概还有不到两周，就要走进这个形式上的婚姻殿堂，怕也好，
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>重生</title>
+    <link href="http://yoursite.com/2016/07/06/%E9%87%8D%E7%94%9F/"/>
+    <id>http://yoursite.com/2016/07/06/重生/</id>
+    <published>2016-07-06T08:23:58.000Z</published>
+    <updated>2016-07-06T08:32:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>时间转向七月，空气热了起来，做在单位的空调间里，忘了时间也忘了空空间，翻看去年今日的照片，宛若昨天。</p></blockquote><p>六月就这样过去了，第一次坐船，第一次到异国他乡，第一次离开自己家乡这么远，4个人，两台单反，12天。普及，曼谷，香港，路走了很远，定格的不只相片，你的笑脸，还有那一刻凝结在空气中幸福的时间。</p><p><strong>但这些不是我想说的重点</strong>，老婆工作上的变故让我想了很多，是时候做出一些改变了。</p><p>Choose life.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;时间转向七月，空气热了起来，做在单位的空调间里，忘了时间也忘了空空间，翻看去年今日的照片，宛若昨天。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;六月就这样过去了，第一次坐船，第一次到异国他乡，第一次离开自己家乡这么远，4个人，两台单反，12天。普及
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>下班前10分钟</title>
+    <link href="http://yoursite.com/2016/05/31/%E4%B8%8B%E7%8F%AD%E5%89%8D10%E5%88%86%E9%92%9F/"/>
+    <id>http://yoursite.com/2016/05/31/下班前10分钟/</id>
+    <published>2016-05-31T08:48:35.000Z</published>
+    <updated>2016-05-31T08:58:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="距离下班还有10分钟"><a href="#距离下班还有10分钟" class="headerlink" title="距离下班还有10分钟"></a>距离下班还有10分钟</h2><h3 id="五月也就这么快过完了，天气一天一天过去，而猴年马月就这么来了"><a href="#五月也就这么快过完了，天气一天一天过去，而猴年马月就这么来了" class="headerlink" title="五月也就这么快过完了，天气一天一天过去，而猴年马月就这么来了"></a>五月也就这么快过完了，天气一天一天过去，而<strong>猴年马月</strong>就这么来了</h3><ol><li>五月跑了半程马拉松，成绩还可以。该为全程做努力了</li><li>五月又瘦了一些，马上到140，不过自己还差的很远</li><li>五月去参加了柏林婚礼，最好的兄弟又有一个结婚了，下一个该是我了吧</li><li>五月拍了婚纱照，总的来说还不错，我还是挺上相的</li><li>五月定了出行计划，马上就要出国旅行了，一不小心和你在一起3年了</li><li>五月跑了140KM多一点，没有4月跑的久，成绩有所提高，但还需要再努力一点吧</li><li>五月妈妈的房子装修完了，可惜我很少能回去住了，选择总是要伴随着失去</li><li>五月沉迷了个新游戏《挺进地牢》，找到玩以撒的感觉了，喜欢一点一点成长的感觉</li></ol><h3 id="还有10几个小时6月就要到来了"><a href="#还有10几个小时6月就要到来了" class="headerlink" title="还有10几个小时6月就要到来了"></a>还有10几个小时6月就要到来了</h3><ol><li>六月该是摆脱一个人生活的了，你好哇邹邹</li><li>六月希望把早起的习惯彻底养成吧</li><li>六月跑步继续，健身加强一点</li><li>六月希望一个完美一些的异国旅行</li><li>六月多读几本书，至少写两个总结吧</li><li>六月再努力一点，OVER </li></ol><h2 id="就这么下班吧，嘿嘿"><a href="#就这么下班吧，嘿嘿" class="headerlink" title="就这么下班吧，嘿嘿"></a>就这么下班吧，嘿嘿</h2><h3 id=""><a href="#" class="headerlink" title=" "></a> </h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;距离下班还有10分钟&quot;&gt;&lt;a href=&quot;#距离下班还有10分钟&quot; class=&quot;headerlink&quot; title=&quot;距离下班还有10分钟&quot;&gt;&lt;/a&gt;距离下班还有10分钟&lt;/h2&gt;&lt;h3 id=&quot;五月也就这么快过完了，天气一天一天过去，而猴年马月就这么来了&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>马拉松</title>
+    <link href="http://yoursite.com/2016/05/23/%E9%A9%AC%E6%8B%89%E6%9D%BE/"/>
+    <id>http://yoursite.com/2016/05/23/马拉松/</id>
+    <published>2016-05-23T07:29:04.000Z</published>
+    <updated>2016-05-24T08:41:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="5月22日算是完成了人生中的第三个马拉松。"><a href="#5月22日算是完成了人生中的第三个马拉松。" class="headerlink" title="5月22日算是完成了人生中的第三个马拉松。"></a>5月22日算是完成了人生中的第三个马拉松。</h2><p><img src="http://o6oxjp1zq.bkt.clouddn.com/wo.jpg" alt=""></p><ul><li>不算轻松，也不是很困难。</li><li>不像曾经跑过的，赛前充满期待，赛后诸多感慨。但这次，也就这样跑完了。</li><li>最多感叹了一下自己的速度不如3年前的自己，再去期待一下下次准备去沈阳跑的全马。</li></ul><h2 id="两个月的训练取得这个成绩还算不错。成绩证书也出来了。"><a href="#两个月的训练取得这个成绩还算不错。成绩证书也出来了。" class="headerlink" title="两个月的训练取得这个成绩还算不错。成绩证书也出来了。"></a>两个月的训练取得这个成绩还算不错。成绩证书也出来了。</h2><p><img src="http://o6oxjp1zq.bkt.clouddn.com/chengji.png" alt=""></p><h2 id="还有曾经一起跑步的兄弟，如今新的一起跑步的人"><a href="#还有曾经一起跑步的兄弟，如今新的一起跑步的人" class="headerlink" title="还有曾经一起跑步的兄弟，如今新的一起跑步的人"></a>还有曾经一起跑步的兄弟，如今新的一起跑步的人</h2><p><img src="http://o6oxjp1zq.bkt.clouddn.com/gautabg.jpg" alt=""></p><p><img src="http://o6oxjp1zq.bkt.clouddn.com/kfc.jpg" alt=""></p><p><strong>就这么跑完了</strong>挺好，还在期待下一次，全马。慢慢来，别急。</p><blockquote><p>时间会让我淡忘很多东西，很多曾经看重的东西都会变得微不足道，日子永不停歇的走着，早已不在是18岁的自己。人的成长可能真的是一瞬间的，年龄只是一个符号而已，在跑步的过程中确实明白了不少东西，想想自己的30岁也就要来了，过些日子也不再是一个人了。不知道是什么情感，生活，总要为了一些东西，放弃一些重要的东西。</p></blockquote><h2 id="可能再也写不出曾经的文字，时间凝练出来的，才是真正的感慨"><a href="#可能再也写不出曾经的文字，时间凝练出来的，才是真正的感慨" class="headerlink" title="可能再也写不出曾经的文字，时间凝练出来的，才是真正的感慨"></a>可能再也写不出曾经的文字，时间凝练出来的，才是真正的感慨</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;5月22日算是完成了人生中的第三个马拉松。&quot;&gt;&lt;a href=&quot;#5月22日算是完成了人生中的第三个马拉松。&quot; class=&quot;headerlink&quot; title=&quot;5月22日算是完成了人生中的第三个马拉松。&quot;&gt;&lt;/a&gt;5月22日算是完成了人生中的第三个马拉松。&lt;/
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>520</title>
+    <link href="http://yoursite.com/2016/05/20/520/"/>
+    <id>http://yoursite.com/2016/05/20/520/</id>
+    <published>2016-05-20T08:32:02.000Z</published>
+    <updated>2016-05-20T08:45:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://o6oxjp1zq.bkt.clouddn.com/i-love-you.jpg" alt=""></p><h2 id="不知道什么时候520也成了节日"><a href="#不知道什么时候520也成了节日" class="headerlink" title="不知道什么时候520也成了节日"></a>不知道什么时候520也成了节日</h2><p>一转眼今天又是周五了，没来得及感叹。就这么周五就到了，一周在不知不觉间过去，这周都做了什么呢？</p><ul><li>婚纱照拍完了，比想象的要顺利许多，拍的也不错</li><li>给阿姨过了生日，还挺快乐的</li><li>邹邹的假请下来了,终于能一起出去玩一次了，double date 感觉挺棒的</li><li>工作有条不紊的进行着，嘿嘿</li></ul><h2 id="接下来"><a href="#接下来" class="headerlink" title="接下来"></a>接下来</h2><ul><li>这周末要跑一个马拉松，虽然是半程但真的好久没跑这么远了，如果可能9月沈阳跑全程</li><li>要去柏林婚礼，定婚庆</li><li>不能停止学习，当然从今天开始</li><li>继续瘦下去，但是慢慢来，反正也不是很着急</li></ul><h2 id="就写到这儿吧，希望下周能多写点总结"><a href="#就写到这儿吧，希望下周能多写点总结" class="headerlink" title="就写到这儿吧，希望下周能多写点总结"></a>就写到这儿吧，希望下周能多写点总结</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://o6oxjp1zq.bkt.clouddn.com/i-love-you.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;不知道什么时候520也成了节日&quot;&gt;&lt;a href=&quot;#不知道什么时候520也成了节日&quot; class=&quot;headerl
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>久违</title>
+    <link href="http://yoursite.com/2016/05/16/%E4%B9%85%E8%BF%9D/"/>
+    <id>http://yoursite.com/2016/05/16/久违/</id>
+    <published>2016-05-16T07:35:43.000Z</published>
+    <updated>2016-05-16T08:11:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://o6oxjp1zq.bkt.clouddn.com/o-MORNING-RUN-facebook.jpg" alt=""><br>跑了久违的20km，上次跑这么久好像还是在2年前。时间过得好快又是一届大连马拉松就要来了<br><img src="http://o6oxjp1zq.bkt.clouddn.com/%E8%B7%91%E6%AD%A51.png" alt=""><br>重新跑起来两个月了，这次进步很快，也很努力。虽然只报了半马，应该能完赛了<br>用软件记录自己跑了3年有余,不出意外的话在下个月能突破<strong>3000KM</strong>，这个成绩只能算是基本满意。跑跑停停重要的自己还没有放弃<br><img src="http://o6oxjp1zq.bkt.clouddn.com/%E8%B7%91%E6%AD%A52.png" alt=""><br>体重也将近掉了10kg,哎，进步的原因竟然是自己足够差劲，想想也挺可笑的。<br>9月要跑沈阳马拉松。恩<br>争取1月跑厦门马拉松。大概吧。<br>接下来的任务</p><ol><li>顺利完成大连半程马拉松</li><li>学日语提上日程</li><li>学会记账</li><li>争取快点突破3000KM</li><li>瘦到135斤然后保持体重开始认真健身</li><li>慢慢戒掉对网络的依赖</li></ol><hr><h3 id="给自己再加个油"><a href="#给自己再加个油" class="headerlink" title="给自己再加个油"></a>给自己再加个油</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://o6oxjp1zq.bkt.clouddn.com/o-MORNING-RUN-facebook.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;跑了久违的20km，上次跑这么久好像还是在2年前。时间过得好快又是一届大连马拉松就要来了&lt;br&gt;&lt;img sr
       
     
     </summary>
